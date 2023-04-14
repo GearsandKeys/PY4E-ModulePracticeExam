@@ -69,3 +69,6 @@ Fizz
 16
 FizzBuzz
 ```
+
+## Test
+Test your code by running `pytest`!
